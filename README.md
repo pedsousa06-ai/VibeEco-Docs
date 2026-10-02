@@ -27,7 +27,6 @@ Aqui ficam os documentos de requisitos, planejamento, modelagem, protótipos, ar
 | 🗓️ Planejamento | EAP/WBS e cronograma | [`02-planejamento`](./02-planejamento) |
 | 🗄️ Modelagem do Banco | Modelos conceitual, lógico e físico | [`03-modelagem`](./03-modelagem) |
 | 🖼️ Protótipos | Protótipos Desktop, Mobile e Administrativo | [`04-prototipos`](./04-prototipos) |
-| 🏗️ Arquitetura | Arquitetura e comunicação entre os componentes | [`05-arquitetura`](./05-arquitetura) |
 | ⚙️ APIs | Documentação das APIs de Usuários e Administrativa | [`06-apis`](./06-apis) |
 | 🧪 Testes | Planos e roteiros de testes | [`07-testes`](./07-testes) |
 
