@@ -23,12 +23,11 @@ Aqui ficam os documentos de requisitos, planejamento, modelagem, protótipos, ar
 
 | Documento | Descrição | Pasta |
 |-----------|-----------|-------|
-| 📋 Levantamento de Requisitos | Requisitos funcionais, não funcionais e de negócio | [`01-requisitos`](./01-requisitos) |
-| 🗓️ Planejamento | EAP/WBS e cronograma | [`02-planejamento`](./02-planejamento) |
-| 🗄️ Modelagem do Banco | Modelos conceitual, lógico e físico | [`03-modelagem`](./03-modelagem) |
-| 🖼️ Protótipos | Protótipos Desktop, Mobile e Administrativo | [`04-prototipos`](./04-prototipos) |
-| ⚙️ APIs | Documentação das APIs de Usuários e Administrativa | [`06-apis`](./06-apis) |
-| 🧪 Testes | Planos e roteiros de testes | [`07-testes`](./07-testes) |
+| 📋 Levantamento de Requisitos | Requisitos funcionais, não funcionais e de negócio | [`1-requisitos`](./1-requisitos) |
+| 🖼️ Protótipos | Protótipos Desktop, Mobile e Administrativo | [`2-prototipos`](./2-prototipos) |
+| ⚙️ APIs | Documentação das APIs de Usuários e Administrativa | [`3-apis`](./3-apis) |
+| 🗓️ WBS | EAP/WBS e cronograma | [`4-WBS`](./4-WBS) |
+| 🧪 Testes | Planos e roteiros de testes | [`05-Roteiro de testes`](./5-Roteiro-de-testes) |
 
 ---
 
